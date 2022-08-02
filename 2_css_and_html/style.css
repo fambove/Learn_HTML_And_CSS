@@ -10,7 +10,17 @@
     font-style: normal;
 
 }
+body{
+    background-color: white;
+  
+    
+}
+.Profilebild{
+    color: maroon;
+    text-align: right;
+
+}
 p {
     font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Geneva, Tahoma, sans-serif  ;
-
+   
 }

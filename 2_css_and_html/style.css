@@ -19,8 +19,9 @@ body{
     color: maroon;
     text-align: right;
 }
-p {
+.Profile{
     font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;  
+    text-align: center;
 }
 h2{
     text-shadow: 2px 2px 20px black;

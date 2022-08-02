@@ -25,9 +25,11 @@ body{
 }
 h2{
     text-shadow: 2px 2px 20px black;
+    
 }
 .Farbe{
 font-style:italic;
+
 }
 h1{
     border: 3px solid black;

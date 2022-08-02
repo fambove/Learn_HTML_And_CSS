@@ -18,11 +18,9 @@ body{
 .Profilebild{
     color: maroon;
     text-align: right;
-
 }
 p {
-    font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;
-   
+    font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;  
 }
 h2{
     text-shadow: 2px 2px 20px black;
@@ -32,7 +30,8 @@ font-style:italic;
 }
 h1{
     border: 3px solid black;
-    width: 20%;
     border-radius: 10px;
     box-shadow: 6px 6px 6px black;
+    text-align: center;
+    background-color: yellow;
 }

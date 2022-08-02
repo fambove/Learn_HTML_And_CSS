@@ -12,8 +12,8 @@
 }
 body{
     background-color: white;
-  
-    
+    background-image: url("Hintergrundbild.jpg");
+    background-attachment: fixed;  
 }
 .Profilebild{
     color: maroon;
@@ -21,6 +21,9 @@ body{
 
 }
 p {
-    font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Geneva, Tahoma, sans-serif  ;
+    font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;
    
+}
+.Farbe{
+font-style:italic;
 }

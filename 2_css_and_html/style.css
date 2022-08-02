@@ -24,6 +24,9 @@ p {
     font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;
    
 }
+h2{
+    text-shadow: 2px 2px 20px black;
+}
 .Farbe{
 font-style:italic;
 }

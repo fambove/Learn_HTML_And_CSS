@@ -15,14 +15,35 @@ body{
     background-image: url("neige.jpg");
     background-attachment: fixed;  
 }
-.Profilebild{
-    color: maroon;
-    text-align: right;
+.en-tête{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+    background-color: brown;
+    height: 250px;
+}
+
+h1{
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px black;
+    text-align: center;
+    
 }
 .Profile{
     font-family:'ambleregular', impact,"arial black", "Times New Roman", Verdana, Tahoma, sans-serif  ;  
     text-align: center;
+    margin-right: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
 }
+.Profilebild{
+    color: maroon;
+    text-align: right; 
+}
+
 h2{
     text-shadow: 2px 2px 20px black;
     
@@ -30,11 +51,4 @@ h2{
 .Farbe{
 font-style:italic;
 
-}
-h1{
-    border: 3px solid black;
-    border-radius: 10px;
-    box-shadow: 6px 6px 6px black;
-    text-align: center;
-    background-color: yellow;
 }

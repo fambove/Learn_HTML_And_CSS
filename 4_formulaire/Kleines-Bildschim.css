@@ -1,0 +1,24 @@
+
+
+    /* Rédigez vos propriétés CSS ici */
+body {
+    width: auto;
+}
+.image_left{
+     display: none;
+}
+.en-tête{
+    display: flex;
+    flex-direction:column; 
+    align-content: center;  
+}
+.Nom{
+    width: 70%;
+}
+section{
+    flex-direction: column;
+}
+.parcour{
+    flex-direction: column;
+}
+
